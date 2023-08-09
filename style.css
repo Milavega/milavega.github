@@ -1,0 +1,167 @@
+footer{
+    background-color: rgb(107, 107, 107);
+    text-align: initial;
+    color: aliceblue;
+    width: 100%;
+}
+.footer1{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 0% 5% 0% 5%;
+}
+
+.intro{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 0% 15% 0% 7% ;
+    text-align: justify;
+    align-items: center;
+    border-radius: 50%;
+}
+.intro img{
+    border-radius: 50%;
+}
+.h2{
+    color: #286075;
+    font-size: 28;
+    text-align: center;
+}
+.resultados{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin: 5% 5% 5% 5%;
+    text-align: center;
+    
+
+}
+
+.h1{
+    color: #286075;
+    font-size: 36;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+.redh1{ color: #286075;
+    font-size: 40;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+.red1{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    justify-content:space-evenly
+   
+    
+
+}
+.red2{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    
+    
+}
+.SF{
+    margin: 5% 5% 5% 10%;
+}
+.cuyo{
+    margin: 5% 10% 5% 10%;
+}
+.alineado{
+    width: 100%;
+    margin: 5% 0% 5% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.redt{
+    color: #286075;
+    font-size: 16;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sumateint{
+    background-color: #286075;
+    margin: -5% 0% 0% 0%;
+}
+.sumate{
+    color: #ffffff;
+    font-size: 36;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0% 5% 5% 5%;
+}
+.sumatep{
+    color: #ffffff;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 5% 5% 5% 5%;
+
+}
+
+.sumatex {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    align-items: center;
+    margin: 5% -5% 5% 5%;
+   
+}
+.h3{
+    color: #ffffff;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.par{
+    color: #ffffff;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.sumateimg{
+    align-items: center;
+}
+.topten{
+    display: flex;
+    flex-direction: row;
+    color: #286075;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    justify-content: space-around;
+}
+.sumate1{
+    a-color
+    align-items:center;
+}
+.red{
+    background-image:url(./imagenes/Diseño\ sin\ título.png)
+}
+.carousel-inner1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+   background: #f8f8f8;}
+
+   .metrica{
+    color: #90C042
+   }
+   .metrica1{
+    color: #8cced7;
+   }
